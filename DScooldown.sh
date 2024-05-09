@@ -38,4 +38,4 @@ else
         chown opc:opc $json_file
         chown opc:opc $json_file_prev
 fi
-
+exit 0
